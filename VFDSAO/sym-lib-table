@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ilc2-12")(type "KiCad")(uri "${KIPRJMOD}/ilc2-12.kicad_sym")(options "")(descr ""))
+  (lib (name "hv5812")(type "KiCad")(uri "${KIPRJMOD}/hv5812.kicad_sym")(options "")(descr ""))
+  (lib (name "Simple_Addon_v2")(type "KiCad")(uri "${KIPRJMOD}/../../libraries/SAOv2/Simple_Addon_v2.kicad_sym")(options "")(descr ""))
+)
